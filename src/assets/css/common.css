@@ -1,0 +1,21 @@
+/*该文件是设置所有CSS的初始文件*/
+*{
+	box-sizing: border-box;
+}
+p,pre,ul,li,dd,dt,h1,h2,h3,h4,h5,h6{
+	padding:0px;
+	margin:0px;
+	list-style:none;
+}
+img{
+	vertical-align:bottom;
+}
+body{
+	background-color:#EDEDED
+}
+a{
+	color: #666;
+}
+a:hover{
+	color: #6b95ea;
+}
